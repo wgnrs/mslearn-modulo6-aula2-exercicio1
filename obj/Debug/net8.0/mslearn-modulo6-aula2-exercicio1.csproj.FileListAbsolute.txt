@@ -12,3 +12,4 @@ g:\Cursos\Microsoft Learn\CSharp Parte 6\mslearn-modulo6-aula2-exercicio1\obj\De
 g:\Cursos\Microsoft Learn\CSharp Parte 6\mslearn-modulo6-aula2-exercicio1\obj\Debug\net8.0\mslearn-modulo6-aula2-exercicio1.pdb
 g:\Cursos\Microsoft Learn\CSharp Parte 6\mslearn-modulo6-aula2-exercicio1\obj\Debug\net8.0\mslearn-modulo6-aula2-exercicio1.genruntimeconfig.cache
 g:\Cursos\Microsoft Learn\CSharp Parte 6\mslearn-modulo6-aula2-exercicio1\obj\Debug\net8.0\ref\mslearn-modulo6-aula2-exercicio1.dll
+g:\Cursos\Microsoft Learn\CSharp Parte 6\mslearn-modulo6-aula2-exercicio1\obj\Debug\net8.0\mslearn-modulo6-aula2-exercicio1.sourcelink.json
